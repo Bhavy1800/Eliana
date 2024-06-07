@@ -8,12 +8,12 @@ import { getStorage } from "firebase/storage";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB2hlI07VCQ-2YXFobd4b1G18Nov7R8GXg",
-  authDomain: "eliana-fc5e4.firebaseapp.com",
-  projectId: "eliana-fc5e4",
-  storageBucket: "eliana-fc5e4.appspot.com",
-  messagingSenderId: "567562225044",
-  appId: "1:567562225044:web:ad4cc2539be7a01f863b81",
+  apiKey: "AIzaSyAuT_8symDvBOgN4lQR0gMH0wECJGUVtnE",
+  authDomain: "eliana-36c7f.firebaseapp.com",
+  projectId: "eliana-36c7f",
+  storageBucket: "eliana-36c7f.appspot.com",
+  messagingSenderId: "443506151422",
+  appId: "1:443506151422:web:c4271898b185211e51faaf"
 };
 
 const app = initializeApp(firebaseConfig);
